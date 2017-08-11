@@ -253,7 +253,8 @@ Not a comprehensive list by any sense. I just thought these papers were incredib
 * [Distill](https://distill.pub/)
 * [My blog :)](https://adeshpande3.github.io/)
 
-Dharmesh added these:
+
+Rakshash added these:
 * [Christopher Olah](http://colah.github.io/)
 
 ## Random Thoughts
