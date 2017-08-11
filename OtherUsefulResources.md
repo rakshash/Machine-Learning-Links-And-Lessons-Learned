@@ -1,3 +1,4 @@
-A very good introduction to RNN
-* [Intro to RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
+* [A very good introduction to RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* Understanding LSTMs (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * Undoubtedly, the best description out there of LSTMs
