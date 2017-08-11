@@ -21,6 +21,111 @@ List of all the lessons learned, best practices, and links from my time studying
 * [Research Ideas](#research-ideas)
 * [Other](#other)
 
+
+## Best Courses
+
+* [Stanford CS 231N](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) - CNNs
+* [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
+* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+* [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+* [Stanford CS 229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Pretty much the same as the Coursera course
+* [UC Berkeley Kaggle Decal](https://kaggledecal.github.io/)
+* [Short MIT Intro to DL Course](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+* [Deep Learning School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+
+## Best Python Libraries for ML
+
+* [Numpy](http://www.numpy.org/)
+* [Scikit-Learn](http://scikit-learn.org/stable/)
+* [Matplotlib](https://matplotlib.org/)
+* [Pandas](http://pandas.pydata.org/)
+
+## Most Important Deep Learning Papers
+
+Not a comprehensive list by any sense. I just thought these papers were incredibly influential in getting deep learning to where it is today. 
+
+* [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+* [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
+* [VGGNet](https://arxiv.org/pdf/1409.1556v6.pdf)
+* [ZFNet](https://arxiv.org/pdf/1311.2901v3.pdf)
+* [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+* [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf)
+* [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+* [Adversarial Images](https://arxiv.org/pdf/1412.1897.pdf)
+* [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661v1.pdf)
+* [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf)
+* [DCGAN](https://arxiv.org/pdf/1511.06434v2.pdf)
+* [Synthetic Gradients](https://arxiv.org/pdf/1608.05343v1.pdf)
+* [Memory Networks](https://arxiv.org/pdf/1410.3916v11.pdf)
+* [Mixture of Experts](https://arxiv.org/pdf/1701.06538.pdf)
+* [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)
+* [Alpha Go](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
+* [Atari DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+* [Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
+* [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
+* [A3C](https://arxiv.org/pdf/1602.01783v2.pdf)
+* [Gradient Descent by Gradient Descent](https://arxiv.org/pdf/1606.04474v1.pdf)
+* [Rethinking Generalization](https://arxiv.org/pdf/1611.03530v1.pdf)
+* [Densely Connected CNNs](https://arxiv.org/pdf/1608.06993v1.pdf)
+* [EBGAN](https://arxiv.org/pdf/1609.03126v1.pdf)
+* [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+* [Style Transfer](https://arxiv.org/pdf/1603.08155v1.pdf)
+* [Pixel RNN](https://arxiv.org/pdf/1601.06759v2.pdf)
+* [Dynamic Coattention Networks](https://arxiv.org/pdf/1611.01604v2.pdf)
+* [Convolutional Seq2Seq Learning](https://arxiv.org/pdf/1705.03122.pdf)
+* [Seq2Seq](https://arxiv.org/pdf/1409.3215.pdf)
+* [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+* [Batch Norm](https://arxiv.org/pdf/1502.03167.pdf)
+* [Large Batch Training](https://arxiv.org/pdf/1609.04836.pdf)
+* [Transfer Learning](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
+* [Adam](https://arxiv.org/pdf/1412.6980.pdf)
+* [Speech Recognition](https://arxiv.org/pdf/1303.5778.pdf)
+* [Relational Networks](https://arxiv.org/pdf/1706.01427.pdf)
+* [Influence Functions](https://arxiv.org/pdf/1703.04730.pdf)
+* [ReLu](https://arxiv.org/pdf/1611.01491.pdf)
+
+## Other Interesting Links
+
+* [Neural Network Playground](http://playground.tensorflow.org)
+* [ConvNetJS Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+* [Stanford Sentiment Analysis Demo](http://nlp.stanford.edu:8080/sentiment/rntnDemo.html)
+* [Deep Learning's Relation to Physics](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
+* [Interpretability of AI](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable)
+* [Picking up Deep Learning as an Engineer](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman?srid=cgo&share=d1ac0da2)
+
+## Best Blogs
+
+* [Andrej Karpathy](http://karpathy.github.io/)
+* [Google Research](https://research.googleblog.com/)
+* [Neil Lawrence](http://inverseprobability.com/blog)
+* [Qure.ai](http://blog.qure.ai/)
+* [Brandon Amos](http://bamos.github.io/blog/)
+* [Denny Britz](http://www.wildml.com/)
+* [Moritz Hardt](http://blog.mrtz.org/)
+* [Deepmind](https://deepmind.com/blog/)
+* [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+* [Smerity](http://smerity.com/articles/articles.html)
+* [The Neural Perspective](https://theneuralperspective.com/)
+* [Pete Warden](https://petewarden.com/page/2/)
+* [Kevin Zakka](https://kevinzakka.github.io/)
+* [Thomas Dinsmore](https://thomaswdinsmore.com/)
+* [Arthur Juliani](https://medium.com/@awjuliani)
+* [CleverHans](http://www.cleverhans.io/)
+* [Off the Convex Path](http://www.offconvex.org/about/)
+* [Berkeley AI Research](http://bair.berkeley.edu/blog/)
+* [Facebook AI Research](https://research.fb.com/blog/)
+* [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
+* [OpenAI](https://blog.openai.com/)
+* [Lab41](https://gab41.lab41.org/tagged/machine-learning)
+* [Distill](https://distill.pub/)
+* [My blog :)](https://adeshpande3.github.io/)
+
+
+Rakshash added these:
+* [Christopher Olah](http://colah.github.io/)
+
+
 ## Data and Features
 
 * Normalizing inputs isn’t guaranteed to help. 
@@ -154,109 +259,6 @@ If you try to change too many of the above variables at once, you’ll lose trac
         * I heard random search is also surprisingly effective, but haven’t tried it myself. 
     * Restart with a very simple model and only a couple of training points, and make sure your model is able to learn that data. Once it gets 100% accuracy, start increasing the complexity of the model, as well as loading in more and more of your whole dataset. 
 
-## Best Courses
-
-* [Stanford CS 231N](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) - CNNs
-* [Stanford CS 224D](https://www.youtube.com/watch?v=sU_Yu_USrNc&list=PLTuSSFCVeNVCXL0Tak5rJ83O-Bg_ajO5B) - Deep Learning for NLP
-* [David Silver's Reinforcement Learning Course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
-* [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
-* [Stanford CS 229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) - Pretty much the same as the Coursera course
-* [UC Berkeley Kaggle Decal](https://kaggledecal.github.io/)
-* [Short MIT Intro to DL Course](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
-* [Udacity Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
-* [Deep Learning School Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
-
-## Best Python Libraries for ML
-
-* [Numpy](http://www.numpy.org/)
-* [Scikit-Learn](http://scikit-learn.org/stable/)
-* [Matplotlib](https://matplotlib.org/)
-* [Pandas](http://pandas.pydata.org/)
-
-## Most Important Deep Learning Papers
-
-Not a comprehensive list by any sense. I just thought these papers were incredibly influential in getting deep learning to where it is today. 
-
-* [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-* [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
-* [VGGNet](https://arxiv.org/pdf/1409.1556v6.pdf)
-* [ZFNet](https://arxiv.org/pdf/1311.2901v3.pdf)
-* [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
-* [R-CNN](https://arxiv.org/pdf/1311.2524v5.pdf)
-* [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
-* [Adversarial Images](https://arxiv.org/pdf/1412.1897.pdf)
-* [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661v1.pdf)
-* [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025.pdf)
-* [DCGAN](https://arxiv.org/pdf/1511.06434v2.pdf)
-* [Synthetic Gradients](https://arxiv.org/pdf/1608.05343v1.pdf)
-* [Memory Networks](https://arxiv.org/pdf/1410.3916v11.pdf)
-* [Mixture of Experts](https://arxiv.org/pdf/1701.06538.pdf)
-* [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)
-* [Alpha Go](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
-* [Atari DQN](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-* [Word2Vec](https://arxiv.org/pdf/1310.4546.pdf)
-* [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
-* [A3C](https://arxiv.org/pdf/1602.01783v2.pdf)
-* [Gradient Descent by Gradient Descent](https://arxiv.org/pdf/1606.04474v1.pdf)
-* [Rethinking Generalization](https://arxiv.org/pdf/1611.03530v1.pdf)
-* [Densely Connected CNNs](https://arxiv.org/pdf/1608.06993v1.pdf)
-* [EBGAN](https://arxiv.org/pdf/1609.03126v1.pdf)
-* [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
-* [Style Transfer](https://arxiv.org/pdf/1603.08155v1.pdf)
-* [Pixel RNN](https://arxiv.org/pdf/1601.06759v2.pdf)
-* [Dynamic Coattention Networks](https://arxiv.org/pdf/1611.01604v2.pdf)
-* [Convolutional Seq2Seq Learning](https://arxiv.org/pdf/1705.03122.pdf)
-* [Seq2Seq](https://arxiv.org/pdf/1409.3215.pdf)
-* [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
-* [Batch Norm](https://arxiv.org/pdf/1502.03167.pdf)
-* [Large Batch Training](https://arxiv.org/pdf/1609.04836.pdf)
-* [Transfer Learning](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf)
-* [Adam](https://arxiv.org/pdf/1412.6980.pdf)
-* [Speech Recognition](https://arxiv.org/pdf/1303.5778.pdf)
-* [Relational Networks](https://arxiv.org/pdf/1706.01427.pdf)
-* [Influence Functions](https://arxiv.org/pdf/1703.04730.pdf)
-* [ReLu](https://arxiv.org/pdf/1611.01491.pdf)
-
-## Other Interesting Links
-
-* [Neural Network Playground](http://playground.tensorflow.org)
-* [ConvNetJS Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
-* [Stanford Sentiment Analysis Demo](http://nlp.stanford.edu:8080/sentiment/rntnDemo.html)
-* [Deep Learning's Relation to Physics](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
-* [Interpretability of AI](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable)
-* [Picking up Deep Learning as an Engineer](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman?srid=cgo&share=d1ac0da2)
-
-## Best Blogs
-
-* [Andrej Karpathy](http://karpathy.github.io/)
-* [Google Research](https://research.googleblog.com/)
-* [Neil Lawrence](http://inverseprobability.com/blog)
-* [Qure.ai](http://blog.qure.ai/)
-* [Brandon Amos](http://bamos.github.io/blog/)
-* [Denny Britz](http://www.wildml.com/)
-* [Moritz Hardt](http://blog.mrtz.org/)
-* [Deepmind](https://deepmind.com/blog/)
-* [Machine Learning Mastery](http://machinelearningmastery.com/blog/)
-* [Smerity](http://smerity.com/articles/articles.html)
-* [The Neural Perspective](https://theneuralperspective.com/)
-* [Pete Warden](https://petewarden.com/page/2/)
-* [Kevin Zakka](https://kevinzakka.github.io/)
-* [Thomas Dinsmore](https://thomaswdinsmore.com/)
-* [Arthur Juliani](https://medium.com/@awjuliani)
-* [CleverHans](http://www.cleverhans.io/)
-* [Off the Convex Path](http://www.offconvex.org/about/)
-* [Berkeley AI Research](http://bair.berkeley.edu/blog/)
-* [Facebook AI Research](https://research.fb.com/blog/)
-* [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/)
-* [OpenAI](https://blog.openai.com/)
-* [Lab41](https://gab41.lab41.org/tagged/machine-learning)
-* [Distill](https://distill.pub/)
-* [My blog :)](https://adeshpande3.github.io/)
-
-
-Rakshash added these:
-* [Christopher Olah](http://colah.github.io/)
-
 ## Random Thoughts
 
 * It's interesting and worrying that the process in which neural nets and deep learning work is still such a black box. If an algorithm comes to the conclusion that a number is let's say classified as a 7, we don't really know how the algorithm came to that result because it's not hardcoded anywhere. It's hidden behind millions of gradients and derivatives. So if we wanted to use deep learning in a more important field like medicine, the doctor who is using this technology should be able to know why the algorithm is giving the result it's giving. Doctors also generally don’t like the idea of probabilistic results.
@@ -302,3 +304,4 @@ Rakshash added these:
 	* My main point is that trying to frame your problem as a supervised learning one, and investing some time in trying to obtain labels is likely to be worth it, because I just don't think unsupervised learning is at a stage where you . This decision of supervised vs unsupervised is very task dependent though, so I'm hesitant of making a catch-all statement.
 * Model compression is something that becomes extremely important when you’re trying to deploy pretrained models onto mobile devices. Training a model offline with GPUs and then making sure that the network size is small enough so that end users can just run inference on those models at test time. Most of the time, the state of the art CNN models (like Inception or ResNet) are so huge that all the parameters can’t possibly fit on one device. That’s where model compression comes in. 
 * Haven’t played around a whole lot with auto-encoders, but they seem really interesting. The basic idea is that you want a network that maps your input into another representation h, and then from h back to your original input. This is interesting because throughout the process of training, the weight values in between your x and h representations could give us a lot of good information about the type of data distribution we have in our training set. A really cool unsupervised learning method. 
+
