@@ -2,6 +2,11 @@
 
 List of all the lessons learned, best practices, and links from my time studying machine learning. 
 
+* [Best Courses](#best-courses)
+* [Best Python Libraries for ML](#best-python-libraries-for-ml)
+* [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
+* [Other Interesting Links](#other-interesting-links)
+* [Best Blogs](#best-blogs)
 * [Data and Features](#data-and-features)
 * [Models](#models)
 * [Hyperparameters](#hyperparameters)
@@ -12,11 +17,6 @@ List of all the lessons learned, best practices, and links from my time studying
 * [ML Project Advice](#ml-project-advice)
 * [Kaggle](#kaggle)
 * [Debugging ML Models](#debugging-ml-models)
-* [Best Courses](#best-courses)
-* [Best Python Libraries for ML](#best-python-libraries-for-ml)
-* [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
-* [Other Interesting Links](#other-interesting-links)
-* [Best Blogs](#best-blogs)
 * [Random Thoughts](#random-thoughts)
 * [Research Ideas](#research-ideas)
 * [Other](#other)
