@@ -8,5 +8,8 @@
   * Undoubtedly, the best description out there on LSTMs
 
 ## Best video lectures
-  * [Fast.ai](http://www.fast.ai/)
-    * Without any doubt, the best!
+* [Fast.ai](http://www.fast.ai/)
+  * Without any doubt, the best!
+
+## Blogs
+* [IAmTrusk](http://iamtrask.github.io/)
