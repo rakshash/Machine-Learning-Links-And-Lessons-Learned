@@ -2,8 +2,8 @@
 
 List of all the lessons learned, best practices, and links from my time studying machine learning. 
 
-1. [Best Courses](#best-courses)
-2. [Best Python Libraries for ML](#best-python-libraries-for-ml)
+*. [Best Courses](#best-courses)
+*. [Best Python Libraries for ML](#best-python-libraries-for-ml)
 * [Most Important Deep Learning Papers](#most-important-deep-learning-papers)
 * [Other Interesting Links](#other-interesting-links)
 * [Best Blogs](#best-blogs)
