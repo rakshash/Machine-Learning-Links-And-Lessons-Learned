@@ -253,6 +253,9 @@ Not a comprehensive list by any sense. I just thought these papers were incredib
 * [Distill](https://distill.pub/)
 * [My blog :)](https://adeshpande3.github.io/)
 
+Dharmesh added these:
+* [Christopher Olah](http://colah.github.io/)
+
 ## Random Thoughts
 
 * It's interesting and worrying that the process in which neural nets and deep learning work is still such a black box. If an algorithm comes to the conclusion that a number is let's say classified as a 7, we don't really know how the algorithm came to that result because it's not hardcoded anywhere. It's hidden behind millions of gradients and derivatives. So if we wanted to use deep learning in a more important field like medicine, the doctor who is using this technology should be able to know why the algorithm is giving the result it's giving. Doctors also generally don’t like the idea of probabilistic results.
