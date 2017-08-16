@@ -7,6 +7,9 @@
 * [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * Undoubtedly, the best description out there on LSTMs
 
+## Unsupervised Learning
+* [Unsupervised Feature Learning and Deep Learning - Stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
 ## Best video lectures
 * [Fast.ai](http://www.fast.ai/)
   * Without any doubt, the best!
