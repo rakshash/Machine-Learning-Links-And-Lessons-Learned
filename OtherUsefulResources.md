@@ -20,3 +20,6 @@
 * [IAmTrusk](http://iamtrask.github.io/)
 * [ACloyer](https://blog.acolyer.org/2017/03/20/convolutional-neural-networks-part-1/)
   * Good understanding on CNNs
+
+## Others
+* [Visualization](http://fellinlovewithdata.com/guides/data-vis-beginners-toolkit-1)
