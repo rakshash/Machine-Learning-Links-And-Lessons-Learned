@@ -9,6 +9,7 @@
 * [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * Undoubtedly, the best description out there on LSTMs
 * [Attention and Augmented RNN](https://distill.pub/2016/augmented-rnns/)
+* [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/) 
 
 ## Unsupervised Learning
 * [Unsupervised Feature Learning and Deep Learning - Stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
